@@ -1,0 +1,27 @@
+  body {
+    Background-color: #34B3F1;
+  }
+
+  h1 {
+    color: navy;
+  }
+
+  h3 {
+    color: navy;
+  }
+
+  h4 {
+    color: navy;
+  }
+
+  hr {
+    border-width: medium;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    width: 100%;
+  }
+
+  img : hover {
+    color: gold;
+  }
